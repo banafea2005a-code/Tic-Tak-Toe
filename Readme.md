@@ -35,6 +35,5 @@ Tic-Tac-Toe is a Windows desktop game built with **C#** and **Windows Forms**. T
 3. Players take turns selecting empty cells on the 3×3 board.
 4. The first player to place three matching symbols in a row, column, or diagonal wins.
 
----
 
-*Created as a C# Windows Forms practice project.*
+
